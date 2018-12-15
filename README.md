@@ -1,5 +1,5 @@
-<h1>Bloc Jams</h1>
+#Bloc Jams
 
-<p>Refactored and added jQuery to allow BlocJams to have full audio-player functionality.</p>
+###Refactored and added jQuery to allow BlocJams to have full audio-player functionality.
 
-<img src="images/preview.jpg" alt="Bloc Jams Preview" />
+![Bloc Jams Preview"](assets/images/bloc_jams_screenshot.png)
